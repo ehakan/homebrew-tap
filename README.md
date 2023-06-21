@@ -1,4 +1,6 @@
-# Ehakan Tap
+# ehakan's Personal Homebrew Tap
+
+Nothing but downgraded formulae for personal use.
 
 ## How do I install these formulae?
 
